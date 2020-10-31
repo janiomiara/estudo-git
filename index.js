@@ -4,7 +4,7 @@ const app = express()
 
 app.get('/', (req, res) => {
   return res.json({
-      hello: 'word'
+      hello: 'word 2'
   })
 });
 
